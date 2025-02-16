@@ -130,7 +130,7 @@
 
 ![Image](https://github.com/adilbek1984/Power-BI-Projects/blob/main/Microfinance-Project/images/UniqueCRMClients.png)
 
-8. Количество договоров в таблице crm_mart
+8. Количество договоров в таблице crm_mart  
 
 ![Image](https://github.com/adilbek1984/Power-BI-Projects/blob/main/Microfinance-Project/images/NumOfCRMContracts.png)
 
