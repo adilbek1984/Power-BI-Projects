@@ -38,18 +38,23 @@
 После чего в данную таблицу были добавлены виртуальные колонки: критерии, на основе которых расчитывается уровень благонадежности клиента, уровень благонадежности и группа риска, к которой относится компания:
 
 ![Image](https://github.com/adilbek1984/Power-BI-Projects/blob/main/Microfinance-Project/images/ArrestsAndConvictions%20criterion.png)
+
 *Критерий «аресты, судимости, задолженности»*
 
 ![Image](https://github.com/adilbek1984/Power-BI-Projects/blob/main/Microfinance-Project/images/CompanySizeScore%20criterion.png)
+
 *Критерий «размер предприятия»*
 
 ![Image](https://github.com/adilbek1984/Power-BI-Projects/blob/main/Microfinance-Project/images/Engagement%20criterion.png)
+
 *Критерий «вовлеченность клиента в услуги холдинга»*
 
 ![Image](https://github.com/adilbek1984/Power-BI-Projects/blob/main/Microfinance-Project/images/Scoring.png)
+
 *Уровень благонадежности*
 
 ![Image](https://github.com/adilbek1984/Power-BI-Projects/blob/main/Microfinance-Project/images/RiskGroup.png)
+
 *Группа риска*
 
 ### Процесс работы с данными во вкладке Model view
